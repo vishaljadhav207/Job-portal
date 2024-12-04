@@ -10,7 +10,7 @@ const AppLayout = () => {
         <Header />  
         <Outlet />
       </main>
-      {/*<Outlet/> we can do any code around this outlet and that will act as a layout and all rote rendere at this particular place */}
+      {/*<Outlet/> we can do any code around this outlet and that will act as a layout and all route rendere at this particular place */}
       <div className="p-10 text-center bg-gray-800 mt-10">
         Made with ❤️by Vishal
       </div>
